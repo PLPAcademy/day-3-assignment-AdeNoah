@@ -20,7 +20,7 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
-C) daet --verify
+C) dart --verify
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
